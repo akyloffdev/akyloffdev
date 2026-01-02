@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F2027,203A43,2C5364&height=180&section=header&text=Alan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Polyglot%20Software%20Engineer&descAlignY=65&descSize=20&descColor=00ADD8" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00ADD8,000000,3178C6&height=250&section=header&text=Alan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=55&descSize=25" alt="header" />
 </div>
-
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Creating+Modern+Web+Interfaces;Automating+Cloud+Infrastructure;Exploring+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Writing+Code+in+Go,+TS,+Python,+Java,+PHP,+C%2B%2B...;Building+Scalable+Backend+Systems;Exploring+Cloud+Infrastructure;Automating+Everything" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <a href="https://vk.com/yellowakyloff" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on-VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="vk"/>
