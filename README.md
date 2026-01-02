@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00ADD8,000000,3178C6&height=250&section=header&text=Alan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=55&descSize=25" alt="" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Writing+Code+in+Go,+TS,+Python,+Java,+PHP,+C%2B%2B...;Writing+Code+in+Rust,+Lua,+C%23,+Swift,+Kotlin...;Polyglot+Software+Engineer" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=WWriting+Code+in+Go,+TS,+Python,+Java,+PHP,+C%2B%2B...;Writing+Code+in+Rust,+Lua,+C%23,+Swift,+Kotlin..." alt="" />
 </div>
 <p align="center">
   <a href="https://vk.com/yellowakyloff" target="_blank">
